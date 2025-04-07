@@ -30,7 +30,7 @@ Build a machine learning system that analyzes a user's credit and financial data
 
 | Layer          | Technology                                                             |
 |----------------|------------------------------------------------------------------------|
-| **ML Model**   | Scikit-learn (Random Forest, Logistic Regression, or XGBoost)          |
+| **ML Model**   |           |
 | **Data Handling** | Python (Pandas), SQL or MongoDB                                     |
 | **Visualization** |
 
