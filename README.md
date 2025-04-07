@@ -1,8 +1,8 @@
 # Fintech-Project
 
 ### Members:
-  -Asif Shahzad
-  -Jose Traboulsi
-  -Seyhr Waqas
-  -Karla Lopez
+  #Asif Shahzad
+  #Jose Traboulsi
+  #Seyhr Waqas
+  #Karla Lopez
   
