@@ -75,7 +75,7 @@ Suggested datasets:
 ---
 
 ## 👥 Team
-> Add names and roles here
+
 - Asif Shahzad
 - Jose Traboulsi
 - Seyhr Waqas
