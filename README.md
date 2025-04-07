@@ -62,7 +62,7 @@ Build a machine learning system that analyzes a user's credit and financial data
 ## 📂 Dataset
 Suggested datasets:
 - [Lending Club Loan Data (Kaggle)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-- [https://www.openintro.org/data/index.php?data=loans_full_schema&utm_source]
+- https://www.openintro.org/data/index.php?data=loans_full_schema&utm_source
 
 
 ---
