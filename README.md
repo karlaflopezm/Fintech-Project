@@ -5,7 +5,7 @@
 ## 📍 Industry: Finance
 
 ### ❓ Problem
-In today's fast paced lending markets, competition for market share is strong. Technological developments like peer-to-peer lending, apps, DeFi, have lowered entry barriers for new lenders to enter the market. As banks / traditional lenders retrench (and traditional credit sources dry up) given increased regulatory pressure, opportunities emerge, but non-traditional players must act fast and offer competitive solutions in a timely manner to maintain market share and increase brand awareness.
+In today's fast paced lending markets, competition for market share is fierce. Technological developments like peer-to-peer lending, apps, DeFi, have lowered entry barriers for new lenders to enter the market. As banks / traditional lenders retrench (and traditional credit sources dry up) given increased regulatory pressure, opportunities emerge, but non-traditional players must act fast and offer competitive solutions in a timely manner to maintain market share and increase brand awareness. This means that non-traditional lenders able to vet, price, and approve loans quickly will have a competitive edge. As such, having a model that accurately predicts  applicant creditworthiness and loan quality / default risk is paramount to a non-traditional lending firm to stay relevant and manage risk exposure.
 
 ### 🎯 Goal
 Build a machine learning system that analyzes a user's credit and financial data to:
