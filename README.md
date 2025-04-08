@@ -5,12 +5,11 @@
 ## 📍 Industry: Finance
 
 ### ❓ Problem
-Many consumers are unaware of which personal loan products they qualify for based on their credit history and financial profile. Navigating loan options without expert guidance can lead to rejections or unfavorable terms.
+
 
 ### 🎯 Goal
 Build a machine learning system that analyzes a user's credit and financial data to:
 - Predict loan eligibility
-- Recommend the most suitable personal loan options
 - Estimate interest rate ranges
 
 ---
