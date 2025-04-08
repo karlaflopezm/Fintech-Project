@@ -5,7 +5,7 @@
 ## 📍 Industry: Finance
 
 ### ❓ Problem
-
+In today's fast paced lending markets, competition for market share is strong. Technological developments like peer-to-peer lending, apps, DeFi, have lowered entry barriers for new lenders to enter the market. As banks / traditional lenders retrench (and traditional credit sources dry up) given increased regulatory pressure, opportunities emerge, but non-traditional players must act fast and offer competitive solutions in a timely manner to maintain market share and increase brand awareness.
 
 ### 🎯 Goal
 Build a machine learning system that analyzes a user's credit and financial data to:
