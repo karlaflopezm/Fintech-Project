@@ -57,6 +57,7 @@ Suggested datasets:
 
 ### 👥 Stakeholders
 - Lending companies
+- Financial institutions
 
 ## 👥 Team
 >
