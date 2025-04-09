@@ -21,7 +21,7 @@ Millions of people apply for personal loans every year. Banks and fintech platfo
   - Collab : https://drive.google.com/drive/folders/1RgUvMY1FDGAJRN747PQuxv2wmwX9XHGu
 
 ## 🔧 Technologies to Use:
-✅ Scikit-learn – ML model (e.g., Logistic Regression, Random Forest).
+✅ Scikit-learn – ML model (e.g., Logistic Regression).
 
 ✅ Pandas – Data cleaning, manipulation.
 
