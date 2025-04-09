@@ -40,15 +40,14 @@ Build a machine learning system that analyzes a user's credit and financial data
 ## 🧠 Key Features
 
 ### 🔢 User Input
-- Credit score  
 - Income  
+- Loan amount  
 - Debt-to-income ratio  
 - Employment length  
-- Loan amount  
+  
 
 ### 🔍 Model Predictions
 - Loan eligibility (Approved/Not Approved)
-- Best-matching loan products
 - Estimated interest rate range
 
 ### 📊 Dashboard (Optional UI)
