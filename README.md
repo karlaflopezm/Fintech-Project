@@ -34,7 +34,7 @@ Millions of people apply for personal loans every year. Banks and fintech platfo
 ## 📂 Dataset
 Suggested datasets:
 - [Lending Club Loan Data (Kaggle)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-- https://www.openintro.org/data/index.php?data=loans_full_schema&utm_source
+
 
 ## 🧠 Key Features
 
