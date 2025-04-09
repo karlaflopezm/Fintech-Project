@@ -17,7 +17,7 @@ Millions of people apply for personal loans every year. Banks and fintech platfo
 - Estimate interest rate ranges
 
 ---
-## ☁️ Cloud Platform
+## Platform
   - Collab : https://drive.google.com/drive/folders/1RgUvMY1FDGAJRN747PQuxv2wmwX9XHGu
 
 ## 🔧 Technologies to Use:
