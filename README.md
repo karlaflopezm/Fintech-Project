@@ -46,7 +46,7 @@ Suggested datasets:
   
 
 ### 🔍 Model Predictions
-- Loan eligibility (Approved/Not Approved)
+- Loan eligibility (A, B, C, or D)
 - Estimated interest rate range
 
 
