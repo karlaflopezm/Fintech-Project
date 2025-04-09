@@ -7,14 +7,28 @@
 ### ❓ Problem
 In today's fast paced lending markets, competition for market share is fierce. Technological developments like peer-to-peer lending, apps, DeFi, have lowered entry barriers for new lenders to enter the market. As banks / traditional lenders retrench (and traditional credit sources dry up) given increased regulatory pressure, opportunities emerge, but non-traditional players must act fast and offer competitive solutions in a timely manner to maintain market share and increase brand awareness. This means that non-traditional lenders able to vet, price, and approve loans quickly will have a competitive edge. As such, having a model that accurately predicts  applicant creditworthiness and loan quality / default risk is paramount to a non-traditional lending firm to stay relevant and manage risk exposure.
 
+
 ### 🎯 Goal
-Build a machine learning system that analyzes a user's credit and financial data to:
+Millions of people apply for personal loans every year. Banks and fintech platforms want to reduce risk and improve their approval accuracy. Consumers often get rejected without clear reasons. This can bridge that gap by building a predictive model that helps financial institutions assess loan eligibility more accurately and fairly using machine learning:
+
+- Use financial behavior data (credit score, income, debts, defaults, etc.)
+- Visualize trends and insights from the dataset
 - Predict loan eligibility
 - Estimate interest rate ranges
 
 ---
 ## ☁️ Cloud Platform
   - Collab : https://drive.google.com/drive/folders/1RgUvMY1FDGAJRN747PQuxv2wmwX9XHGu
+---
+## 🔧 Technologies to Use (at least 2):
+✅ Scikit-learn – ML model (e.g., Logistic Regression, Random Forest).
+
+✅ Pandas – Data cleaning, manipulation.
+
+✅ Matplotlib / Plotly – Data visualization.
+
+✅ SQL or MongoDB – Store and retrieve customer financial records.
+
 ---
 
 ## 📂 Dataset
@@ -37,11 +51,7 @@ Suggested datasets:
 
 ---
 ### 📣 Communication Plan
-Stakeholder	Frequency	Channel	Purpose
-All Team Members	Weekly	Slack + Stand-up	General sync-up & updates
-Data Science Team	Bi-weekly	Notion / GitHub	Model progress, experiments
-Product Owner	Bi-weekly	Email + Zoom	Review deliverables, feedback
-Stakeholders	Monthly	Presentation Decks	Report KPIs, demos, risk review
+
 
 ### 👥 Stakeholders
 - Lending companies
