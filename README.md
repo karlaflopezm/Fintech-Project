@@ -1,6 +1,6 @@
 # Fintech-Project
 
-# 💰 What´s the risk?
+# 💰 “Predicting Personal Loan Eligibility Based on Credit Behavior and Financial History”
 
 ## 📍 Industry: Finance
 
@@ -19,8 +19,8 @@ Millions of people apply for personal loans every year. Banks and fintech platfo
 ---
 ## ☁️ Cloud Platform
   - Collab : https://drive.google.com/drive/folders/1RgUvMY1FDGAJRN747PQuxv2wmwX9XHGu
----
-## 🔧 Technologies to Use (at least 2):
+
+## 🔧 Technologies to Use:
 ✅ Scikit-learn – ML model (e.g., Logistic Regression, Random Forest).
 
 ✅ Pandas – Data cleaning, manipulation.
@@ -29,7 +29,7 @@ Millions of people apply for personal loans every year. Banks and fintech platfo
 
 ✅ SQL or MongoDB – Store and retrieve customer financial records.
 
----
+
 
 ## 📂 Dataset
 Suggested datasets:
@@ -49,8 +49,9 @@ Suggested datasets:
 - Loan eligibility (Approved/Not Approved)
 - Estimated interest rate range
 
----
+
 ### 📣 Communication Plan
+
 
 
 ### 👥 Stakeholders
