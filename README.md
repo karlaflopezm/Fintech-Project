@@ -1,6 +1,6 @@
 # Fintech-Project
 
-# 💰 Personal Loan Recommendation Engine
+# 💰 What´s the risk?
 
 ## 📍 Industry: Finance
 
