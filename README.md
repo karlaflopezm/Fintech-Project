@@ -51,7 +51,8 @@ Suggested datasets:
 
 
 ### 📣 Communication Plan
-
+- Class hours: Zoom
+- Off class hours: Slack 
 
 
 ### 👥 Stakeholders
