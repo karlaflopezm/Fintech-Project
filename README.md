@@ -1,6 +1,6 @@
 # Fintech-Project
 
-# 💰 “Predicting Personal Loan Eligibility Based on Credit Behavior and Financial History”
+## 💰 “Predicting Personal Loan Eligibility Based on Credit Behavior and Financial History”
 
 ## 📍 Industry: Finance
 
