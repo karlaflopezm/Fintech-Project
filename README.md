@@ -13,7 +13,7 @@ Build a machine learning system that analyzes a user's credit and financial data
 - Estimate interest rate ranges
 
 ---
-## Cloud Platform
+## ☁️ Cloud Platform
   - Collab : https://drive.google.com/drive/folders/1RgUvMY1FDGAJRN747PQuxv2wmwX9XHGu
 ---
 
@@ -35,12 +35,16 @@ Suggested datasets:
 - Loan eligibility (Approved/Not Approved)
 - Estimated interest rate range
 
-### 📊 Dashboard (Optional UI)
-- Recommended loan options
-- Visual comparison: user vs. average (credit score, income, etc.)
-- Explanation of eligibility decisions (e.g. via feature importance or SHAP values)
-
 ---
+### 📣 Communication Plan
+Stakeholder	Frequency	Channel	Purpose
+All Team Members	Weekly	Slack + Stand-up	General sync-up & updates
+Data Science Team	Bi-weekly	Notion / GitHub	Model progress, experiments
+Product Owner	Bi-weekly	Email + Zoom	Review deliverables, feedback
+Stakeholders	Monthly	Presentation Decks	Report KPIs, demos, risk review
+
+### 👥 Stakeholders
+- Lending companies
 
 ## 👥 Team
 >
