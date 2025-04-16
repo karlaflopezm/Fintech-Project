@@ -72,4 +72,14 @@ Suggested datasets:
 ## 📄 License
 > Project number 4 for Data Analytics Boot Camp - U of Toronto.
 
+loan_api_project/
+│
+├── app.py
+├── Gloan_model.keras
+├── Gloan_scaler.pkl
+├── Bad_Loan_Model.json
+├── Bad_Loan_Scaler.pkl
+├── requirements.txt  ← (optional)
+
+
 
